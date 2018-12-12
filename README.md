@@ -6,4 +6,4 @@ This repositorty contains the codes that are used in the BE lineage tracing stud
 
 These files are related to the Source data files that were uploaded in the paper (currently in revision).
 
-For fig3a and 3b and supplementary figure 12, use fig3.py code.
+For fig3a and 3b and supplementary figure 13, use fig3.py code.
